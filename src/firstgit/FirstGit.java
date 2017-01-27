@@ -16,7 +16,7 @@ public class FirstGit {
      */
     public static void main(String[] args) {
         System.out.println("Very Cool");
-        System.out.println("Noway!!!");   
+        System.out.println("Norway!!!");   
         
     }
     
